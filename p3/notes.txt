@@ -1,0 +1,2 @@
+static_cast<X&&>(x);
+// rValues can be 'moved' this way by ref folding rules
